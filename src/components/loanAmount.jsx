@@ -32,7 +32,8 @@ const LoanAmount = ({
           );
         } else {
           setError("");
-          handleLoanInputChange(numericValue);
+          handleLoanInputChange(numericValue); 
+          
         }
       }
     }
