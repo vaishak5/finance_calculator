@@ -1,0 +1,85 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+ @media (max-width: 1440px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 44%;
+    left: 62%;
+  }
+} 
+
+@media (max-width: 1439) and (min-width: 1024px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 88%;
+    left: 61%;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 99%;
+    left: 62%;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 425px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 99%;
+    left: 62%;
+  }
+}
+
+@media (max-width: 425px) and (min-width: 375px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 314%;
+    left: 39%;
+  }
+}
+@media (max-width: 375px) and (min-width: 320px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 314%;
+    left: 42%;
+  }
+}
+@media (max-width: 320px) {
+  .payment-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 314%;
+    left: 42%;
+  }
+}
+
